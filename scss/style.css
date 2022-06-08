@@ -433,7 +433,8 @@ nav a {
 }
 
 .footer-icon:hover {
-  font-size: 40px;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
 }
 
 .footer-subtitle {
